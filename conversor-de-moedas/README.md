@@ -24,7 +24,7 @@ Leprechaun é um aplicativo desenvolvido para converter valores monetários entr
 1. Clone o repositório do projeto:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Pepe-Dan-Dan/Leprechaun---Conversor-de-Moedas.git
 
 2. Acesse o diretório do projeto:
  
