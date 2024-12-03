@@ -19,17 +19,15 @@ Leprechaun é um aplicativo desenvolvido para converter valores monetários entr
 - **Expo CLI**.
 - Acesso à internet para obtenção das taxas de câmbio.
 
-### Passo a Passo:
+ ### Passo a Passo:
 
 1. Clone o repositório do projeto:
-
    ```bash
 git clone https://github.com/Pepe-Dan-Dan/Leprechaun---Conversor-de-Moedas.git
 
 2. Acesse o diretório do projeto:
  
- ```bash
-cd leprechaun-app 
+cd conversor-de-moedas 
 
 3. Instale as dependências necessárias:
 
@@ -39,28 +37,39 @@ npm install
 
 expo start
 
+5. Use o aplicativo no seu dispositivo físico ou emulador, escaneando o QR code exibido no terminal ou navegador.
 
-Use o aplicativo no seu dispositivo físico ou emulador, escaneando o QR code exibido no terminal ou navegador. 
-### Explicação da Estrutura:
-1. **Título e Descrição**: Aqui está o nome do projeto e uma descrição breve do que ele faz. O texto é apresentado de forma clara, com destaque para as funcionalidades.
-   
-2. **Funcionalidades Principais**: Listei as principais funcionalidades do app para dar uma visão geral rápida sobre o que o projeto oferece.
+## Capturas de Tela 
 
-3. **Instruções para Rodar o Projeto**: Forneci instruções detalhadas para que outras pessoas possam rodar o projeto localmente. Isso inclui os requisitos, como instalar dependências e iniciar o aplicativo com o Expo.
+### Tela de Login: 
 
-4. **Capturas de Tela**: Coloquei espaços reservados para que você adicione imagens das telas do seu aplicativo. Lembre-se de subir as imagens no repositório e adicionar os links delas no formato correto.
+ ![conversorLOGIN](https://github.com/user-attachments/assets/555184bf-6ed3-4680-88e8-4f1c1d2fe777)
 
-5. **Versões Utilizadas**: Inclui as versões do React Native, Expo e a API utilizada para as cotações.
 
-6. **Informações dos Alunos**: Finalizei com os dados dos alunos e a instituição de ensino para dar o crédito e um toque profissional.
+### Tela de Cadastro:
 
-### Personalização e Melhorias:
-- **Imagens**: Você pode substituir `link-para-imagem` pelos links das imagens de captura de tela que deseja incluir. Suba as imagens na pasta do repositório para que possam ser referenciadas diretamente.
-  
-- **Badges**: Caso queira adicionar badges (ícones de status como build passing ou licença), você pode incluir algo assim no topo:
+![conversorCADASTRO](https://github.com/user-attachments/assets/7fd65305-6b4c-48e4-9539-1f6505ea5978)
 
-```markdown
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+
+### Tela Principal (Home):
+
+ ![conversorHOME](https://github.com/user-attachments/assets/cf3b5058-902e-4fe5-99a8-7b2ebc3232e9)
+
+
+## Versões Utilizadas 
+
+- React Native: 0.72.0 
+
+- Expo: 49.0.5 
+
+- API de Cotações: AwesomeAPI - (https://docs.awesomeapi.com.br/api-de-moedas) 
 
  
+
+## Informações dos Alunos 
+
+Nomes: Pedro Henrique Cavenaghi dos Santos & Daniel Santana de Moraes 
+
+Curso: Ensino Técnico em Desenvolvimento de Sistemas Integrado ao Médio 
+
+Instituição de Ensino: ETEC Euro Albino de Souza 
